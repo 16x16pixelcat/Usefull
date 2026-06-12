@@ -29,10 +29,16 @@
 
 ---
 
-# Hardware control
+### Hardware control
 
 * [Fan Control](https://getfancontrol.com/)
 * [SignalRGB](https://signalrgb.com/) NOT OPEN SOURCE
+
+### 3D stuff
+
+* [BlockBench](https://www.blockbench.net/)
+
+* [Blender](https://www.blender.org/)
 
 ---
 
