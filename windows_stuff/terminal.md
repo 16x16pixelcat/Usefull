@@ -1,3 +1,10 @@
+# TOS
+
+[fixes](#fixes)
+
+[winget](#winget)
+
+## fixes
 
 Scans for and repairs corrupted system files
 
@@ -35,6 +42,20 @@ scans and repairs system image files
 
 ```
 DISM /Ontine /Cleanup-Image /RestoreHealth
+```
+
+## Winget
+
+search for packages (apps)
+
+```
+winget search
+```
+
+install and uninstall apps
+
+```
+winget install\uninstall
 ```
 
 ---

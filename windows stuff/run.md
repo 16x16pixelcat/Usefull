@@ -1,5 +1,0 @@
-Preformance moniter
-
-```
-perfmon /report
-```

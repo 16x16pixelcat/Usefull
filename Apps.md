@@ -1,9 +1,14 @@
 # Apps TOC
-* [Files Management](#files-management)
-* [J*b](#J*b)
-* [Hardware Control](#hardware-control)
-* [Personalisation](#personalisation)
-* [Uncaticorised](#uncaticorised)
+
+[Files Management](#files-management)
+
+[J*b](#J*b)
+
+[Hardware Control](#hardware-control)
+
+[Personalisation](#personalisation)
+
+[Uncaticorised](#uncaticorised)
 
 ---
 
