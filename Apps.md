@@ -72,3 +72,7 @@ https://christitus.com/windows-tool/
 https://github.com/builtbybel/Winslop
 
 https://libresprite.github.io/
+
+https://winhance.net/
+
+https://diskanalyzer.com/download
