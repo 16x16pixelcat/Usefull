@@ -9,7 +9,7 @@
 Scans for and repairs corrupted system files
 
 ```
-sfc / scannow
+sfc /scannow
 ```
 
 ---
@@ -41,7 +41,7 @@ chkdsk /f C:
 scans and repairs system image files
 
 ```
-DISM /Ontine /Cleanup-Image /RestoreHealth
+DISM /Online /Cleanup-Image /RestoreHealth
 ```
 
 ## Winget
