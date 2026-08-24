@@ -8,3 +8,5 @@ usfull stuff
 [Websites](Website.md)
 
 [Windows stuff](windows_stuff)
+
+[Random](Random.md)
