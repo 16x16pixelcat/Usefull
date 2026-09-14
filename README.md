@@ -1,10 +1,10 @@
 # Yeah thats usefull
 
-#### OS
+# OS
 - [Rufus - Create bootable USB drives the easy way](https://rufus.ie/en/)
-##### Linux
+## Linux
 - [The Linux Desktop Guide - The Linux Desktop Guide](https://thelinuxbook.com/titlepage)
-###### Distro
+### Distro
 - [Test Linux distros online - DistroSea](https://distrosea.com/)
 - [SteamOS](https://store.steampowered.com/steamos/download/?ver=steamdeck&amp;snr=100601___)
 - [Exodia OS 🇵🇸 Free Palestine](https://exodiaos.com/)
@@ -15,41 +15,41 @@
 - [Enterprise Open Source and Linux | Ubuntu](https://ubuntu.com/)
 - [Arch Linux](https://archlinux.org/)
 - [Open Source &amp; Linux | AnduinOS](https://www.anduinos.com/)
-###### DE
+### DE
 - [Home - KDE Community](https://kde.org/)
 - [COSMIC](https://system76.com/cosmic?srsltid=AfmBOor2Hw2Ch_27hj8R1oz3x_UAX9_BGVUYgiwppxgZ2iTRLyzi45-a)
-##### ChromeOS
+## ChromeOS
 - [ChromeOS - The Cloud-First, Secure OS for your Business](https://chromeos.google/)
 - [Upgrade Your PC: Faster and More Secure with ChromeOS Flex](https://chromeos.google/products/chromeos-flex/)
-##### Windows
+## Windows
 - [Software Download](https://www.microsoft.com/en-gb/software-download/)
 - [Front Page | ReactOS Project](https://reactos.org/)
-###### Debloat
+### Debloat
 - [The Ultimate Windows Utility](https://christitus.com/windows-tool/)
 - [Winhance - Windows Enhancement Utility](https://winhance.net/)
 - [GitHub - builtbybel/Winslop: De-slop Windows.](https://github.com/builtbybel/Winslop)
-#### Gaming
+## Gaming
 - [IsThereAnyDeal](https://isthereanydeal.com/)
 - [DriftGuard - Dashboard](https://driftguard.app/)
 - [PlaytestCloud - Player Insights Platform™](https://www.playtestcloud.com/)
 - [Mouse Accuracy Training Game - Improve Your Aim &amp; Precision | Free Online Tool](https://mouseaccuracy.com/)
-##### GameLauncher
+### GameLauncher
 - [Epic Games Store | Download &amp; Play PC Games, Mods, DLC &amp; More – Epic Games](https://store.epicgames.com/en-US/)
 - [Welcome to GOG.com | best PC games DRM-free](https://www.gog.com/en/)
-###### Steam
+### Steam
 - [Welcome to Steam](https://store.steampowered.com/)
 - [Steam DashBoard — News, Tools &amp; Analytics for Steam](https://steamdb.com/en)
 - [ProtonDB | Gaming know-how from the Linux and Steam Deck community](https://www.protondb.com/)
 - [Home - SteamGridDB](https://www.steamgriddb.com/)
-##### Console
+### Console
 - [PlayStation® Official Site: Consoles, Games, Accessories &amp; More](https://www.playstation.com/en-us/)
-##### Minecraft
+### Minecraft
 - [Welcome to the Minecraft Official Site | Minecraft](https://www.minecraft.net/en-us)
 - [Home | Minecraft Help](https://help.minecraft.net/hc/en-us)
 - [Download Free Minecraft Wallpapers and Backgrounds | Minecraft](https://www.minecraft.net/en-us/collectibles?tabs=%7B%22tab%22%3A0%7D)
 - [The Official Minecraft Server List](https://findmcserver.com/)
 - [Caller's Bane Site Archive | An archive for the Caller's Bane website, including download links for game distribution, and archived news articles.](https://mojang.github.io/CallersBaneSiteArchive/)
-###### MinecraftSites
+#### MinecraftSites
 - [Minecraft Wiki](https://minecraft.wiki/)
 - [MCTools — Free Minecraft Skin Editor, Pack Merger, Avatar Maker &amp; More](https://mc-tools.net/)
 - [PackCrafter - Minecraft Resource Pack Editor](https://packcrafter.net/)
@@ -70,27 +70,27 @@
 - [GrabCraft Home - Blueprints for MineCraft Houses, Castles, Towers, and more | GrabCraft](https://www.grabcraft.com/)
 - [Plotz - Minecraft Sphere Generator](https://www.plotz.co.uk/minecraft-sphere-generator.php)
 - [Modrinth](https://modrinth.com/)
-###### Launcher
+#### Launcher
 - [Pandora - Minecraft Launcher](https://pandora.moulberry.com/)
-###### ServerApps
+#### ServerApps
 - [Pumpkin - Blazingly Fast Minecraft Server](https://pumpkinmc.org/)
 - [SteelMC](https://steelmc.dev/)
-###### Mods
+#### Mods
 - [record-able - Minecraft Mod](https://modrinth.com/mod/record-able)
 - [blocka-chameleon](https://modrinth.com/mod/blocka-chameleon)
 - [Blocka Chameleon - Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/blocka-chameleon)
 - [Simple Blueprints - Minecraft Mod](https://modrinth.com/mod/simple-blueprints)
-###### ResourcePacks
+#### ResourcePacks
 - [Meme Cat Paintings - Minecraft Resource Pack](https://modrinth.com/resourcepack/meme-cat-paintings)
-###### ModDev
+#### ModDev
 - [Template mod generator | Fabric](https://fabricmc.net/develop/template/)
-###### ResourcePackMaker
+#### ResourcePackMaker
 - [PackCrafter - Minecraft Resource Pack Editor](https://packcrafter.net/)
-##### GamePub
+### GamePub
 - [Welcome to 16X16PixelCat](https://16x16pixelcat-studio.github.io/)
 - [Home](https://oonyteam.com/)
 - [Ubisoft | Welcome to the official Ubisoft website](https://www.ubisoft.com/en-us)
-##### Games
+#### Games
 - [Play the Official Tetris Game for Free | Tetris](https://play.tetris.com/)
 - [2048 by Gabriele Cirulli • Play the Free Online Game](https://play2048.co/)
 - [Wordle — The New York Times](https://www.nytimes.com/games/wordle/index.html)
@@ -156,6 +156,7 @@
 - [Pick parts. Build your PC. Compare and share. - PCPartPicker](https://pcpartpicker.com/)
 - [buildcores.com](https://www.buildcores.com/)
 #### Software
+- [asyar](https://asyar.org/)
 - [Raycast for Windows](https://www.raycast.com/windows)
 - [SmoredBoard | Free Soundboard For Windows](https://www.smoredboard.com/)
 ##### HardwareControl
@@ -195,7 +196,7 @@
 #### Websites
 - [ytultra — Turn Viral Videos Into Your Next Winning Script](https://www.ytultra.com/en/)
 - [OpenCut](https://opencut.app/)
-- [الصفحة الرئيسية - Canva](https://www.canva.com/)
+- [Canva](https://www.canva.com/)
 - [Excalidraw | Online whiteboard collaboration made easy](https://plus.excalidraw.com/)
 - [OpenMouse | All Your Mice. One Control Panel.](https://openmouse.app/)
 - [VirusTotal - Home](https://www.virustotal.com/gui/home/upload)
