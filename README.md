@@ -2,16 +2,7 @@
 
 # OS
 [OS](OS/os.md)
-## ChromeOS
-- [ChromeOS - The Cloud-First, Secure OS for your Business](https://chromeos.google/)
-- [Upgrade Your PC: Faster and More Secure with ChromeOS Flex](https://chromeos.google/products/chromeos-flex/)
-## Windows
-- [Software Download](https://www.microsoft.com/en-gb/software-download/)
-- [Front Page | ReactOS Project](https://reactos.org/)
-### Debloat
-- [The Ultimate Windows Utility](https://christitus.com/windows-tool/)
-- [Winhance - Windows Enhancement Utility](https://winhance.net/)
-- [GitHub - builtbybel/Winslop: De-slop Windows.](https://github.com/builtbybel/Winslop)
+
 ## Gaming
 - [IsThereAnyDeal](https://isthereanydeal.com/)
 - [DriftGuard - Dashboard](https://driftguard.app/)
