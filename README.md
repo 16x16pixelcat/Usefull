@@ -3,11 +3,8 @@
 # OS
 [OS](OS/os.md)
 
-## Gaming
-- [IsThereAnyDeal](https://isthereanydeal.com/)
-- [DriftGuard - Dashboard](https://driftguard.app/)
-- [PlaytestCloud - Player Insights Platform™](https://www.playtestcloud.com/)
-- [Mouse Accuracy Training Game - Improve Your Aim &amp; Precision | Free Online Tool](https://mouseaccuracy.com/)
+# Gaming
+[Gaming](Gaming/gaming.md)
 ### GameLauncher
 - [Epic Games Store | Download &amp; Play PC Games, Mods, DLC &amp; More – Epic Games](https://store.epicgames.com/en-US/)
 - [Welcome to GOG.com | best PC games DRM-free](https://www.gog.com/en/)
