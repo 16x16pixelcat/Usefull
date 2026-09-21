@@ -1,3 +1,7 @@
+# Stores
+
+- [Stores](Stores/stores.md)
+
 # Deals
 
 - [IsThereAnyDeal](https://isthereanydeal.com/)

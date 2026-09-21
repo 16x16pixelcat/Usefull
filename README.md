@@ -5,14 +5,6 @@
 
 # Gaming
 [Gaming](Gaming/gaming.md)
-### GameLauncher
-- [Epic Games Store | Download &amp; Play PC Games, Mods, DLC &amp; More – Epic Games](https://store.epicgames.com/en-US/)
-- [Welcome to GOG.com | best PC games DRM-free](https://www.gog.com/en/)
-### Steam
-- [Welcome to Steam](https://store.steampowered.com/)
-- [Steam DashBoard — News, Tools &amp; Analytics for Steam](https://steamdb.com/en)
-- [ProtonDB | Gaming know-how from the Linux and Steam Deck community](https://www.protondb.com/)
-- [Home - SteamGridDB](https://www.steamgriddb.com/)
 ### Console
 - [PlayStation® Official Site: Consoles, Games, Accessories &amp; More](https://www.playstation.com/en-us/)
 ### Minecraft
