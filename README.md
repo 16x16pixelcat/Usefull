@@ -1,15 +1,13 @@
 # Yeah thats usefull
 
 # OS
+
 [OS](OS/os.md)
 
 # Gaming
+
 [Gaming](Gaming/gaming.md)
 
-### GamePub
-- [Welcome to 16X16PixelCat](https://16x16pixelcat-studio.github.io/)
-- [Home](https://oonyteam.com/)
-- [Ubisoft | Welcome to the official Ubisoft website](https://www.ubisoft.com/en-us)
 #### Games
 - [Play the Official Tetris Game for Free | Tetris](https://play.tetris.com/)
 - [2048 by Gabriele Cirulli • Play the Free Online Game](https://play2048.co/)

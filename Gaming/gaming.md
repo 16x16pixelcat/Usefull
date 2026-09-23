@@ -8,6 +8,10 @@
 
 - [Xbox](https://www.xbox.com/)
 
+# Game Publishers
+
+[GamePub](gamepub.md)
+
 # Games
 
 - [Minecraft](Minecraft/minecraft.md)
