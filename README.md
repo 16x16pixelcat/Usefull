@@ -129,6 +129,7 @@
 - [SignalRGB](https://signalrgb.com/)
 - [GitHub - Nuzair46/Monarch: Detach, restore, and switch monitor layouts without touching cables.](https://github.com/Nuzair46/Monarch)
 ##### Office
+- [LibreOffice](https://www.libreoffice.org/)
 - [ONLYOFFICE - Secure Online Office | ONLYOFFICE](https://www.onlyoffice.com/)
 ##### VideoEditor
 - [Kdenlive - Free and Open Source Video Editor](https://kdenlive.org/)
