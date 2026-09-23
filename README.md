@@ -5,51 +5,7 @@
 
 # Gaming
 [Gaming](Gaming/gaming.md)
-### Console
-- [PlayStation® Official Site: Consoles, Games, Accessories &amp; More](https://www.playstation.com/en-us/)
-### Minecraft
-- [Welcome to the Minecraft Official Site | Minecraft](https://www.minecraft.net/en-us)
-- [Home | Minecraft Help](https://help.minecraft.net/hc/en-us)
-- [Download Free Minecraft Wallpapers and Backgrounds | Minecraft](https://www.minecraft.net/en-us/collectibles?tabs=%7B%22tab%22%3A0%7D)
-- [The Official Minecraft Server List](https://findmcserver.com/)
-- [Caller's Bane Site Archive | An archive for the Caller's Bane website, including download links for game distribution, and archived news articles.](https://mojang.github.io/CallersBaneSiteArchive/)
-#### MinecraftSites
-- [Minecraft Wiki](https://minecraft.wiki/)
-- [MCTools — Free Minecraft Skin Editor, Pack Merger, Avatar Maker &amp; More](https://mc-tools.net/)
-- [PackCrafter - Minecraft Resource Pack Editor](https://packcrafter.net/)
-- [Chunk Base - Minecraft Apps, Mods and Tutorials](https://www.chunkbase.com/)
-- [SquidServers - Free Minecraft Server Hosting | No Port Forwarding Required](https://squidservers.com/)
-- [Fabric | The home of the Fabric mod development toolchain.](https://fabricmc.net/)
-- [Vanilla Tweaks](https://vanillatweaks.net/)
-- [Applications : Minecraft : Gamer Geeks](https://www.gamergeeks.net/apps/minecraft)
-- [NameMC: Minecraft Names &amp; Skins](https://namemc.com/)
-- [Minecraft Skin Editor and Tester | Mineskin.pro](https://www.mineskin.pro/preview)
-- [Minecraft Skin Editor :: NeedCoolerShoes](https://needcoolershoes.com/)
-- [#skins | Nova Skin](https://minecraft.novaskin.me/gallery/tag/skins)
-- [Minetrim - Armor Trim Generator](https://minetrim.com/)
-- [Pixel Papercraft - Minecraft Papercraft and more](https://www.pixelpapercraft.com/)
-- [Minecraft Enchantment Order Calculator](https://kkchengaf.github.io/Minecraft-Enchantment-Order-Calculator/)
-- [Minecraft Enchantment Ordering Tool](https://iamcal.github.io/enchant-order/)
-- [Build It – Minecraft Building Made Simple](https://builditapp.com/)
-- [GrabCraft Home - Blueprints for MineCraft Houses, Castles, Towers, and more | GrabCraft](https://www.grabcraft.com/)
-- [Plotz - Minecraft Sphere Generator](https://www.plotz.co.uk/minecraft-sphere-generator.php)
-- [Modrinth](https://modrinth.com/)
-#### Launcher
-- [Pandora - Minecraft Launcher](https://pandora.moulberry.com/)
-#### ServerApps
-- [Pumpkin - Blazingly Fast Minecraft Server](https://pumpkinmc.org/)
-- [SteelMC](https://steelmc.dev/)
-#### Mods
-- [record-able - Minecraft Mod](https://modrinth.com/mod/record-able)
-- [blocka-chameleon](https://modrinth.com/mod/blocka-chameleon)
-- [Blocka Chameleon - Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/blocka-chameleon)
-- [Simple Blueprints - Minecraft Mod](https://modrinth.com/mod/simple-blueprints)
-#### ResourcePacks
-- [Meme Cat Paintings - Minecraft Resource Pack](https://modrinth.com/resourcepack/meme-cat-paintings)
-#### ModDev
-- [Template mod generator | Fabric](https://fabricmc.net/develop/template/)
-#### ResourcePackMaker
-- [PackCrafter - Minecraft Resource Pack Editor](https://packcrafter.net/)
+
 ### GamePub
 - [Welcome to 16X16PixelCat](https://16x16pixelcat-studio.github.io/)
 - [Home](https://oonyteam.com/)

@@ -2,6 +2,16 @@
 
 - [Stores](Stores/stores.md)
 
+# Console
+
+- [DigitalStation](https://www.playstation.com/)
+
+- [Xbox](https://www.xbox.com/)
+
+# Games
+
+- [Minecraft](Minecraft/minecraft.md)
+
 # Deals
 
 - [IsThereAnyDeal](https://isthereanydeal.com/)
