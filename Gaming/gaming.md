@@ -16,6 +16,10 @@
 
 - [Minecraft](Minecraft/minecraft.md)
 
+# Online Games
+
+[Online Games](onlinegames.md)
+
 # Deals
 
 - [IsThereAnyDeal](https://isthereanydeal.com/)
