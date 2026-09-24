@@ -18,9 +18,9 @@
 
 [Launchers](launcher.md)
 
-## ServerApps
+## Server
 
-[Servers](server.md)
+[Servers](Servers/server.md)
 
 ## Mods
 

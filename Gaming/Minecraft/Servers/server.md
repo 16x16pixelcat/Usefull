@@ -6,3 +6,7 @@
 
 - [Pumpkin - Blazingly Fast Minecraft Server](https://pumpkinmc.org/)
 - [SteelMC](https://steelmc.dev/)
+
+# Plugins
+
+[Plugins](plugin.md)
