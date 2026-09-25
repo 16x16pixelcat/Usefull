@@ -8,44 +8,10 @@
 
 [Gaming](Gaming/gaming.md)
 
-#### Development
-- [Android Mobile App Developer Tools - Android Developers](https://developer.android.com/)
-##### ProgrammingLanguage
-- [Rust Programming Language](https://rust-lang.org/)
-###### Python
-- [Welcome to Python.org](https://www.python.org/)
-####### PythonLib
-- [PyPI · The Python Package Index](https://pypi.org/)
-- [pygame-ce · PyPI](https://pypi.org/project/pygame-ce/)
-- [pyttsx3 · PyPI](https://pypi.org/project/pyttsx3/)
-######## Gui
-- [PyQt5 · PyPI](https://pypi.org/project/PyQt5/)
-- [TkDocs Home](https://tkdocs.com/)
-######### Flet
-- [Build cross-platform apps in Python | Flet](https://flet.dev/)
-- [flet · PyPI](https://pypi.org/project/flet/)
-######## Manim
-- [Manim Community](https://www.manim.community/)
-- [manim · PyPI](https://pypi.org/project/manim/)
-##### Github
-- [guthib.com](https://guthib.com/)
-- [GitHub](https://github.com/)
-##### GameDev
-###### GameEngine
-- [Prowl Engine. Lightweight C# game engine.](https://prowl.dev/)
-- [Carrots Game Engine — No-Code. Full Power. Your Way.](https://carrot-engine.lovable.app/)
-###### Assets
-- [Home · Kenney](https://kenney.nl/)
-##### WebDev
-- [Simple Icons](https://simpleicons.org/)
-- [Uiverse | The Largest Library of Open-Source UI elements](https://uiverse.io/)
-##### TextEditor
-- [Visual Studio Code - The open source AI code editor | Your home for multi-agent development](https://code.visualstudio.com/)
-- [JetBrains: Essential tools for software developers and teams](https://www.jetbrains.com/)
-- [Notepad++](https://notepad-plus-plus.org/)
-###### WebTextEditor
-- [Codespaces](https://github.com/codespaces)
-- [Welcome - Workspace - Visual Studio Code](https://vscode.dev/)
+# Development
+
+[Development](Development/dev.md)
+
 #### PCBuilding
 - [ZTT Builds – Zach's Tech Turf](https://zttbuilds.com/)
 - [UFD Deals](https://ufd.deals/)

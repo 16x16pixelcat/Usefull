@@ -10,6 +10,8 @@
 
 - [Nerdle - the daily numbers game](https://nerdlegame.com/)
 
+- [What Beats Rock Game](https://www.whatbeatsrock.com/)
+
 - [notpron](https://notpron.com/notpron/levelone.htm)
 
 # Clicker Games
@@ -20,23 +22,23 @@
 
 - [Monkeytype | A minimalistic, customizable typing test](https://monkeytype.com/)
 
-# Other
-
-- [Alt + Tab by Jerbob](https://jerbobyt.itch.io/alt-tab)
+# IO Games
 
 - [slither.io](http://slither.com/io)
 
 - [Agar.io](https://agar.io/)
 
-- [Chess.com - Play Chess Online - Free Games](https://www.chess.com/)
-
 - [ZOMBS.io | Build. Defend. Survive.](https://zombs.io/)
+
+# Other
+
+- [Alt + Tab by Jerbob](https://jerbobyt.itch.io/alt-tab)
+
+- [Chess.com - Play Chess Online - Free Games](https://www.chess.com/)
 
 - [skribbl - Free Multiplayer Drawing &amp; Guessing Game](https://skribbl.io/)
 
 - [Quick, Draw!](https://quickdraw.withgoogle.com/)
-
-- [What Beats Rock Game](https://www.whatbeatsrock.com/)
 
 
 # Online Games sites
