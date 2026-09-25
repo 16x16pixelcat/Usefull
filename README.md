@@ -119,3 +119,5 @@
 - [Firebase Studio](https://studio.firebase.google.com/)
 - [Firebase console](https://console.firebase.google.com/)
 - [Google for Developers - from AI and Cloud to Mobile and Web](https://developers.google.com/)
+
+if you have a suggestion open an [issue](https://github.com/16x16pixelcat/Usefull/issues/new) or modifiy the project via [vscode.dev](https://vscode.dev/github/16x16pixelcat/Usefull) and create a pull request
