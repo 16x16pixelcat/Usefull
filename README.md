@@ -16,45 +16,10 @@
 
 [PC Building](pcbuilding.md)
 
-#### Software
-- [asyar](https://asyar.org/)
-- [Raycast for Windows](https://www.raycast.com/windows)
-- [SmoredBoard | Free Soundboard For Windows](https://www.smoredboard.com/)
-##### HardwareControl
-- [Fan Control - A highly focused fan controlling software for Windows](https://getfancontrol.com/)
-- [KDE Connect | KDE Connect: A project that enables all your devices to communicate with each other.](https://kdeconnect.kde.org/)
-- [SignalRGB](https://signalrgb.com/)
-- [GitHub - Nuzair46/Monarch: Detach, restore, and switch monitor layouts without touching cables.](https://github.com/Nuzair46/Monarch)
-##### Office
-- [LibreOffice](https://www.libreoffice.org/)
-- [ONLYOFFICE - Secure Online Office | ONLYOFFICE](https://www.onlyoffice.com/)
-##### VideoEditor
-- [Kdenlive - Free and Open Source Video Editor](https://kdenlive.org/)
-##### PhotoEditor
-- [RapidRAW - The RAW Editor You've Been Waiting For.](https://www.getrapidraw.com/)
-###### GIMP
-- [GIMP - GNU Image Manipulation Program](https://www.gimp.org/)
-- [GitHub - Diolinux/PhotoGIMP: A Patch for GIMP 3+ for Photoshop Users · GitHub](https://github.com/Diolinux/Photogimp)
-##### 3DObjMaker
-- [Blockbench](https://www.blockbench.net/)
-- [Blender - The Free and Open Source 3D Creation Software — blender.org](https://www.blender.org/)
-##### DigitalArt
-- [Krita | Digital Painting. Creative Freedom.](https://krita.org/en/)
-- [LibreSprite](https://libresprite.github.io/)
-##### Video
-- [VLC: Official site - Free multimedia solutions for all OS! - VideoLAN](https://www.videolan.org/)
-##### FileManagement
-- [Home - TagStudio](https://docs.tagstud.io/)
-- [Download WizTree](https://diskanalyzer.com/download)
-##### FileShare
-- [LocalSend: Share files to nearby devices](https://localsend.org/)
-- [Blip – The fastest way to send files](https://blip.net/)
-##### Customization
-- [Lively Wallpaper by rocksdanister](https://www.rocksdanister.com/lively/)
-- [Home - Nilesoft Shell](https://nilesoft.org/)
-- [Seelen](https://seelen.io/)
-##### Archive
-- [7-Zip](https://www.7-zip.org/)
+# Software
+
+[Software](Software/software.md)
+
 #### Websites
 - [ytultra — Turn Viral Videos Into Your Next Winning Script](https://www.ytultra.com/en/)
 - [OpenCut](https://opencut.app/)
@@ -120,6 +85,5 @@
 
 [RedTeam](https://redteam.games/)
 
-[ConCat](https://concatenate.pages.dev/#features)
 
 if you have a suggestion open an [issue](https://github.com/16x16pixelcat/Usefull/issues/new) or modifiy the project via [vscode.dev](https://vscode.dev/github/16x16pixelcat/Usefull) and create a pull request
