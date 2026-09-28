@@ -24,9 +24,10 @@
 
 [Websites](Websites/website.md)
 
-#### Communication
-- [Chat](https://steamcommunity.com/chat/)
-- [GameVox: Voice, Video &amp; Text Chat for Gamers](https://gamevox.com/)
+# Communication
+
+[Communication](communication.md)
+
 #### TV
 - [GitHub - iptv-org/iptv: Collection of publicly available IPTV channels from all over the world · GitHub](https://github.com/iptv-org/iptv)
 #### Google
