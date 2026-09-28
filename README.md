@@ -28,35 +28,8 @@
 
 [Communication](communication.md)
 
-#### TV
+#### watch TV in VLC
 - [GitHub - iptv-org/iptv: Collection of publicly available IPTV channels from all over the world · GitHub](https://github.com/iptv-org/iptv)
-#### Google
-- [Gmail](https://mail.google.com/mail/u/0/)
-- [Google Gemini](https://gemini.google.com/app)
-- [NotebookLM](https://notebooklm.google.com/)
-- [Google Calendar - Week of October 19, 2025](https://calendar.google.com/calendar/u/0/r)
-- [Tasks](https://tasks.google.com/tasks/)
-- [Google Keep](https://keep.google.com/)
-- [Google Translate](https://translate.google.com/)
-- [Google Skills](https://www.skills.google/)
-- [Google Labs: Google's home for AI experiments - Google Labs](https://labs.google/)
-- [My groups](https://groups.google.com/my-groups)
-- [Experiments](chrome://flags/)
-- [What’s new](chrome://whats-new/)
-##### Drive
-- [Home - Google Drive](https://drive.google.com/drive/home)
-- [Photos - Google Photos](https://photos.google.com/)
-- [Google One](https://one.google.com/)
-- [Google Sites](https://sites.google.com/)
-- [Google Docs](https://docs.google.com/document/u/0/)
-- [Google Sheets](https://docs.google.com/spreadsheets/u/0/)
-- [Google Slides](https://docs.google.com/presentation/u/0/)
-- [Google Forms](https://docs.google.com/forms/u/0/)
-- [Google Vids](https://docs.google.com/videos/)
-##### Google Dev
-- [Firebase Studio](https://studio.firebase.google.com/)
-- [Firebase console](https://console.firebase.google.com/)
-- [Google for Developers - from AI and Cloud to Mobile and Web](https://developers.google.com/)
 
 ### Unsorted
 
