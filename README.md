@@ -33,7 +33,6 @@
 
 ### Unsorted
 
-[RedTeam](https://redteam.games/)
 - [ytultra — Turn Viral Videos Into Your Next Winning Script](https://www.ytultra.com/en/)
 - [OpenCut](https://opencut.app/)
 - [Canva](https://www.canva.com/)
